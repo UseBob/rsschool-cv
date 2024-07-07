@@ -46,15 +46,12 @@ body{
     text-align: center;
 }
 
-.contact-list{
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    padding-top: 30px;
-    padding-right: 20px;
-}
-
 .footer{
     background-color: aquamarine;
     height: 100px;
+}
+
+.reference{
+    display: flex;
+    justify-content: space-around;
 }
